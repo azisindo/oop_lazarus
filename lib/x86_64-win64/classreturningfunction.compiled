@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="D:\XDRIVE\LAZLAB5\fpc\bin\x86_64-win64\fpc.exe" Date="1449875638"/>
+  <Params Value=" -MObjFPC -Scghi -O1 -gw3 -gl -l -vewnhibq -FiD:\XDRIVE\LAZARUS\PROJECT\LAT_OOP\lib\x86_64-win64 -FuD:\XDRIVE\LAZARUS\PROJECT\LAT_OOP\ -FUD:\XDRIVE\LAZARUS\PROJECT\LAT_OOP\lib\x86_64-win64\ -FED:\XDRIVE\LAZARUS\PROJECT\LAT_OOP\ -oD:\XDRIVE\LAZARUS\PROJECT\LAT_OOP\classreturningfunction.exe classreturningfunction.lpr"/>
+</CONFIG>
